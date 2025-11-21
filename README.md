@@ -1,4 +1,4 @@
-# Milestone 2: Perplexity Metric Implementation and Testing
+#  Perplexity Metric Implementation and Testing
 
 This document explains the perplexity metric we implemented, the files we created, and how to run the code.
 
