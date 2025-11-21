@@ -26,7 +26,7 @@ Here are the files we added and what they are for:
 
 *   `run_perplexity_on_attacked.py`: This script calculates the perplexity score for both the original and the attacked datasets and saves the results into `.csv` files.
 
-*   `comparison_notebook.ipynb`: This is a Jupyter Notebook that you can use to see the results. It loads the scores from the `.csv` files and shows a chart comparing the perplexity of the original text versus the attacked text.
+*   `comparison_notebook.ipynb`: This is a   Notebook that you can use to see the results. It loads the scores from the `.csv` files and shows a chart comparing the perplexity of the original text versus the attacked text.
 
 ## 3. Workflow Diagram
 
@@ -57,7 +57,7 @@ The `run_perplexity_on_attacked.py` script reads **both** the original and the a
 
 
 **Step C: Visualization**
-The Jupyter Notebook reads the two result files to create the comparison chart.
+The   Notebook reads the two result files to create the comparison chart.
 
     [perplexity_data.csv] ------>+
                                  |
@@ -100,7 +100,7 @@ python run_perplexity_on_attacked.py
 ```
 
 **Step 4: See the Results**
-Open the `comparison_notebook.ipynb` in Jupyter. Run the cells in the notebook to see a histogram comparing the perplexity scores before and after the attack.
+Open the `comparison_notebook.ipynb` in notebook . Run the cells in the notebook to see a histogram comparing the perplexity scores before and after the attack.
 
 **How to Run the Unit Test:**
 If you want to just run the basic test for the metric, use `pytest`.
