@@ -1,3 +1,6 @@
+# NOTE: This file is not used in the Perplexity project.
+# It's a placeholder from the original a4s_eval framework.
+
 from datetime import datetime
 import numpy as np
 import pandas as pd
@@ -31,3 +34,4 @@ def accuracy(
 
     current_time = datetime.now()
     return [Measure(name="accuracy", score=accuracy_value, time=current_time)]
+
