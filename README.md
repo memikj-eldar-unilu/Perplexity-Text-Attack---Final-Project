@@ -23,7 +23,7 @@ This project evaluates how adversarial text attacks affect the quality and natur
 * **Public Repository:** [https://github.com/memikj-eldar-unilu/Perplexity-Text-Attack---Final-Project](https://github.com/memikj-eldar-unilu/Perplexity-Text-Attack---Final-Project)
 * **Private Project Repository:** 
     * *Note: Professor access has been granted to the private repository.*
-* **Full Project Backup (OneDrive):** id=%2Fpersonal%2F021142094e%5Funi%5Flu%2FDocuments%2FAI%20and%20Cybersecurity%20Final%20Project%20full&viewid=b33906dc%2D8401%2D4816%2D8533%2Dce15b8c9900f)
+* **Full Project Backup (OneDrive):** 
     * *Note: This link is provided as a backup. It contains the fully configured environment and all datasets pre-installed, should you prefer not to run the setup script.*
 
 ---
